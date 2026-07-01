@@ -1,0 +1,18 @@
+[project]
+name = "atividadeproposta"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+	"jupyter",
+	"ipykernel",
+	"ipython",
+	"spacy",
+	"nltk",
+	"pip>=26.1.2",
+	"pandas",
+	"matplotlib",
+	"seaborn",
+	"scikit-learn"
+]
